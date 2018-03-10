@@ -1,0 +1,114 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Rishabh 1/Desktop/hoardingCpp/DiceRoll.cpp
+iostream
+-
+SpaceX.h
+/Users/Rishabh 1/Desktop/hoardingCpp/SpaceX.h
+
+/Users/Rishabh 1/Desktop/hoardingCpp/GameEnd.cpp
+iostream
+-
+vector
+-
+cmath
+-
+SpaceX.h
+/Users/Rishabh 1/Desktop/hoardingCpp/SpaceX.h
+
+/Users/Rishabh 1/Desktop/hoardingCpp/Gamestate.cpp
+iostream
+-
+vector
+-
+cmath
+-
+SpaceX.h
+/Users/Rishabh 1/Desktop/hoardingCpp/SpaceX.h
+
+/Users/Rishabh 1/Desktop/hoardingCpp/HousesHotel.cpp
+iostream
+-
+vector
+-
+cmath
+-
+memory
+-
+SpaceX.h
+/Users/Rishabh 1/Desktop/hoardingCpp/SpaceX.h
+
+/Users/Rishabh 1/Desktop/hoardingCpp/Player.cpp
+iostream
+-
+vector
+-
+Player.h
+/Users/Rishabh 1/Desktop/hoardingCpp/Player.h
+
+/Users/Rishabh 1/Desktop/hoardingCpp/Player.h
+iostream
+-
+vector
+-
+string
+-
+
+/Users/Rishabh 1/Desktop/hoardingCpp/SpaceX.cpp
+iostream
+-
+fstream
+-
+vector
+-
+cstring
+-
+iomanip
+-
+memory
+-
+SpaceX.h
+/Users/Rishabh 1/Desktop/hoardingCpp/SpaceX.h
+
+/Users/Rishabh 1/Desktop/hoardingCpp/SpaceX.h
+iostream
+-
+vector
+-
+string
+-
+memory
+-
+Player.h
+/Users/Rishabh 1/Desktop/hoardingCpp/Player.h
+readRules.h
+/Users/Rishabh 1/Desktop/hoardingCpp/readRules.h
+
+/Users/Rishabh 1/Desktop/hoardingCpp/main.cpp
+iostream
+-
+SpaceX.h
+/Users/Rishabh 1/Desktop/hoardingCpp/SpaceX.h
+
+/Users/Rishabh 1/Desktop/hoardingCpp/readRules.cpp
+iostream
+-
+vector
+-
+readRules.h
+/Users/Rishabh 1/Desktop/hoardingCpp/readRules.h
+
+/Users/Rishabh 1/Desktop/hoardingCpp/readRules.h
+iostream
+-
+vector
+-
+string
+-
+
