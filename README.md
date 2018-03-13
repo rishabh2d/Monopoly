@@ -1,2 +1,2 @@
 # Monopoly
-One Dimensional Monopoly
+Recreating Monopoly, in one dimension
